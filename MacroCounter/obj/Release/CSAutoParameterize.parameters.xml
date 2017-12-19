@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="MojCS-Web.config Connection String" description="MojCS Connection String used in web.config by the application to access the database." defaultValue="Data Source=app.fit.ba,1432;Initial Catalog=hci242b;Integrated Security=false;User ID=hci242b;Password=6Mc9ko!2;" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\tmp\\New\ folder\\MacroCounter\\MacroCounter\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='MojCS']/@connectionString" />
+  </parameter>
+</parameters>
